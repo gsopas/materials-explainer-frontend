@@ -84,7 +84,8 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1>Materials Explainer---SKA XRONIA POLLA !!!!!</h1>
+        <h1>Materials Explainer</h1>
+        <h1>SKA XRONIA POLLA !!!!!</h1>
         <p>Search Materials Project data and explore it with an AI assistant.</p>
       </header>
 
