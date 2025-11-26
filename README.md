@@ -1,7 +1,7 @@
 
 #URL:
 
-!(https://gsopas.github.io/materials-explainer-frontend/)
+https://gsopas.github.io/materials-explainer-frontend
 
 
 # React + Vite
